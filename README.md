@@ -1,6 +1,6 @@
 # Crossword Sucker
 
-Sucks crosswords from mycrosswordmaker.com
+Sucks crosswords from [mycrosswordmaker.com](https://mycrosswordmaker.com/)
 
 ## Usage
 
